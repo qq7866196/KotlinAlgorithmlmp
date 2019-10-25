@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">App</string>
+
+    <string-array name="classic_sort">
+        <item>插入排序</item>
+        <item>希尔排序</item>
+        <item>选择排序</item>
+        <item>冒泡排序</item>
+        <item>归并排序</item>
+        <item>快速排序</item>
+        <item>堆排序</item>
+        <item>基数排序</item>
+    </string-array>
+
+
 </resources>

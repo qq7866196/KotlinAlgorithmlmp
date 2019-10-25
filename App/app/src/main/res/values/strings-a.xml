@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="time_and_space_title">时间和空间复杂度</string>
+    <string name="time_and_space_content">时间复杂度有以下经验规则：O(1) &#060;  O(log2N) &#060;  O(n) &#060;  O(N * log2N) &#060;  O(N2) &#060;  O(N3) &#060; 2N &#060; 3N &#060;
+        N! \n前四个比较好、中间两个一般、后3个很烂。也就是说O(N2)是相对糟糕的一种时间复杂度了，N大一点，程序就会执行得比较慢。O(1)常数级
+    </string>
+
+</resources>
