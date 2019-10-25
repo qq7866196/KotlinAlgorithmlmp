@@ -23,7 +23,7 @@ local.properties
 
 # IntelliJ project files
 *.iml
-.idea/
+.idea
 
 # Eclipse project files
 .settings/
